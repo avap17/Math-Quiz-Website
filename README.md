@@ -6,7 +6,6 @@ Math Quiz Website gives students the chance to review and improve their math ski
 3. Allows users to register and login
 4. Users can provide feedback about the website
 5. Includes a home page with multiple tabs that navigate to different pages
-For more details, view the full project proposal [here](https://docs.google.com/document/d/1Ctb2f4GheroH9Vbq2vwt2zzgsxvExEbskMJjcgg-QjU/edit?usp=sharing).
 
 ## Installation Instructions
 ### `npm start`
