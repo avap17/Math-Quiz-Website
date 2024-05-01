@@ -8,9 +8,6 @@ Math Quiz Website gives students the chance to review and improve their math ski
 5. Includes a home page with multiple tabs that navigate to different pages
 For more details, view the full project proposal [here](https://docs.google.com/document/d/1Ctb2f4GheroH9Vbq2vwt2zzgsxvExEbskMJjcgg-QjU/edit?usp=sharing).
 
-## Technical Architecture
-<img width="572" alt="architecture" src="https://github.com/CS222-UIUC-FA23/group-project-team80/assets/124087591/e4bfafaa-f1c6-43fd-bc8e-e56b6805de16">
-
 ## Installation Instructions
 ### `npm start`
 
